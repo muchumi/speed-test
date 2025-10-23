@@ -13,9 +13,11 @@ It measures download speed, upload speed, and ping time.
    cd speed-test
 
 2. Install the required packages:
+   ```bash
     pip install -r requirements.txt
 
-3. Usage. Run the script with:
+4. Usage. Run the script with:
+   ```powershell
     python speedTest.py
 
 
